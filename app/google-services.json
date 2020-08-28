@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783361386610",
+    "firebase_url": "https://hanjuproject.firebaseio.com",
+    "project_id": "hanjuproject",
+    "storage_bucket": "hanjuproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783361386610:android:fc71a71cc3eb811bdffaeb",
+        "android_client_info": {
+          "package_name": "com.hanju.searchpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783361386610-28tq84qkiap10tndg53r6agt47knv3vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFq4E-BoyKahRR6ieO3ktC758Mp1GVqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783361386610-28tq84qkiap10tndg53r6agt47knv3vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
